@@ -1,0 +1,29 @@
+/* By Id */
+#title{
+      color: blue;
+      font-size: 24px;
+}
+/* By Class */
+.highlight{
+      background-color: yellow;
+      font-weight: bold;
+}
+
+.highlighT{
+      background-color: orange;
+      font-weight: bold;
+}
+
+/* Universal Selector */
+*{
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+}
+
+/* by Element */
+h4{
+      color: tomato;
+      text-align: center;
+      text-decoration: underline;
+}
