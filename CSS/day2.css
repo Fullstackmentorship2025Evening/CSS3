@@ -1,0 +1,24 @@
+h1{
+      color:palevioletred;
+}
+
+h2{
+      background-color: tomato;
+}
+
+/* by class */
+.sheeko1{
+      color: red;
+}
+
+/* by Id */
+#sheeko1{
+      color: dodgerblue;
+}
+
+/* By Universal */
+*{
+      background-color: indigo;
+      color: white;
+}
+
